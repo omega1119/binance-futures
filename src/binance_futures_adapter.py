@@ -1,8 +1,12 @@
+"""
+Binance Futures API Adapter
 
+Lightweight wrappers for Binance USD-M Futures API endpoints.
+"""
 from typing import Optional, Dict, Any, List
 import requests
 
-BASE = "https://fapi.binance.com"  # USDⓈ-M Futures
+BASE = "https://fapi.binance.com"  # USD-M Futures
 
 def _get(path: str, params: Optional[Dict[str, Any]] = None, timeout: int = 10):
     url = f"{BASE}{path}"

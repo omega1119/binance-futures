@@ -2,101 +2,101 @@
   {
     "symbol": "BTCUSDT",
     "fundingRate": "0.00005015",
-    "fundingTime": 1755179531656
+    "fundingTime": 1730534400000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "0.00008585",
-    "fundingTime": 1755208331656
+    "fundingTime": 1730563200000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "0.00001710",
-    "fundingTime": 1755237131656
+    "fundingTime": 1730592000000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "-0.00005687",
-    "fundingTime": 1755265931656
+    "fundingTime": 1730620800000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "-0.00000456",
-    "fundingTime": 1755294731656
+    "fundingTime": 1730649600000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "-0.00006900",
-    "fundingTime": 1755323531656
+    "fundingTime": 1730678400000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "0.00005722",
-    "fundingTime": 1755352331656
+    "fundingTime": 1730707200000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "0.00021083",
-    "fundingTime": 1755381131656
+    "fundingTime": 1730736000000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "-0.00000906",
-    "fundingTime": 1755409931656
+    "fundingTime": 1730764800000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "-0.00002446",
-    "fundingTime": 1755438731656
+    "fundingTime": 1730793600000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "0.00010878",
-    "fundingTime": 1755467531656
+    "fundingTime": 1730822400000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "0.00009283",
-    "fundingTime": 1755496331656
+    "fundingTime": 1730851200000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "0.00006265",
-    "fundingTime": 1755525131656
+    "fundingTime": 1730880000000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "-0.00006166",
-    "fundingTime": 1755553931656
+    "fundingTime": 1730908800000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "0.00004649",
-    "fundingTime": 1755582731656
+    "fundingTime": 1730937600000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "0.00013344",
-    "fundingTime": 1755611531656
+    "fundingTime": 1730966400000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "-0.00011131",
-    "fundingTime": 1755640331656
+    "fundingTime": 1730995200000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "-0.00000491",
-    "fundingTime": 1755669131656
+    "fundingTime": 1731024000000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "-0.00017815",
-    "fundingTime": 1755697931656
+    "fundingTime": 1731052800000
   },
   {
     "symbol": "BTCUSDT",
     "fundingRate": "-0.00010474",
-    "fundingTime": 1755726731656
+    "fundingTime": 1731081600000
   }
 ]

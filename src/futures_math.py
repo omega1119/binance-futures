@@ -1,4 +1,9 @@
+"""
+Futures Math Utilities
 
+Calculations for perpetual and dated futures including basis, funding rates,
+cash-and-carry strategies, and cost-of-carry pricing.
+"""
 import math
 from typing import Iterable, Literal, Dict, Any, List, Tuple, Optional
 import datetime
@@ -63,9 +68,9 @@ def clamp(x: float, lo: float, hi: float) -> float:
 
 def predicted_funding_from_premium(premium_index: float, interest_per_interval: float = 0.0001) -> float:
     """
-    Binance documentation (USDⓈ-M) describes funding rate formula as:
+    Binance documentation (USD-M) describes funding rate formula as:
         Funding Rate = Premium Index + clamp(Interest Rate - Premium Index, +0.0005, -0.0005)
-    where default Interest Rate per interval ~ 0.01% (0.0001) and clamp bounds are ±0.05% (±0.0005).
+    where default Interest Rate per interval is approximately 0.01% (0.0001) and clamp bounds are +/-0.05% (+/-0.0005).
     This function applies that rule to estimate next funding given a current premium index.
     """
     adj = clamp(interest_per_interval - premium_index, -0.0005, 0.0005)
